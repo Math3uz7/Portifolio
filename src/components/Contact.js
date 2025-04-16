@@ -39,6 +39,9 @@ export const Contact = () => {
 
   const sendEmail = (e) => {
 
+    const apiUrl = process.env.REACT_APP_API_URL
+    console.log(apiUrl)
+
     const service = process.env.REACT_APP_SERVICE_ID;
     const template = process.env.REACT_APP_TEMPLATE_ID;
     const key = process.env.REACT_APP_PUBLIC_KEY;
