@@ -5,7 +5,7 @@ import projImg2 from "../assets/img/ecozin.png";
 import projImg3 from "../assets/img/project-img3.png";
 import projImg4 from "../assets/img/Quizimg.png"
 import projImg5 from "../assets/img/retro.jpg"
-import projImg6 from "../assets/img/Captura de Tela (6).png"
+import projImg6 from "../assets/img/syron.png"
 import colorSharp2 from "../assets/img/color-sharp2.png";
 import 'animate.css';
 import TrackVisibility from 'react-on-screen';
