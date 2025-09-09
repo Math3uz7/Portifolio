@@ -2,7 +2,7 @@ import { Container, Row, Col, Tab, Nav } from "react-bootstrap";
 import { ProjectCard } from "./ProjectCard";
 import projImg1 from "../assets/img/Captura de tela 2025-03-07 162940.png";
 import projImg2 from "../assets/img/ecozin.png";
-import projImg3 from "../assets/img/ASEprint.png";
+import projImg3 from "../assets/img/ASEpost.png";
 import projImg4 from "../assets/img/Quizimg.png"
 import projImg5 from "../assets/img/retro.jpg"
 import projImg6 from "../assets/img/SYRONprint.png"
@@ -24,7 +24,7 @@ export const Projects = () => {
       imgUrl: projImg2,
     },
     {
-      title: "Business Startup",
+      title: "ASE centro automotivo",
       description: "Design & Desenvolvimento",
       imgUrl: projImg3,
     },
